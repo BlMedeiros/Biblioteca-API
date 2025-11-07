@@ -31,6 +31,7 @@ public class BibliotecaView {
                 inserirLivro();
                 break;
             case 2:
+                inserirUsuario();
                 break;
             case 3:
                 break;
